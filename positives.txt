@@ -1,0 +1,6 @@
+./positive_images/DSC06053_opt.jpg
+./positive_images/DSC06053_opt1.jpg
+./positive_images/DSC06054_opt.jpg
+./positive_images/DSC06055_opt.jpg
+./positive_images/DSC06067_opt.jpg
+./positive_images/DSC06070_opt.jpg

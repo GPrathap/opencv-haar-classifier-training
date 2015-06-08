@@ -1,0 +1,5 @@
+./samples/DSC06053_opt.jpg.vec
+./samples/DSC06053_opt1.jpg.vec
+./samples/DSC06054_opt.jpg.vec
+./samples/DSC06055_opt.jpg.vec
+./samples/DSC06067_opt.jpg.vec
